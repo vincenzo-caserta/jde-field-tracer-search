@@ -2,7 +2,7 @@
 
 A free online tool that indexes JD Edwards EnterpriseOne **Event Rules** and lets you search them by the one thing that actually matters when you're tracing a field: the **field alias**.
 
-🔍 **[Search JDE FieldTracer](https://vincenzocaserta.it/en/jde-field-tracer-online)**
+🔍 **[Search JDE FieldTracer](https://vincenzocaserta.it/en/jd-edwards-en/jde-field-tracer-online)**
 
 This is a companion tool to [JDE Object Librarian Search](../README.md). Object Librarian Search tells you which objects exist and what they do. FieldTracer tells you what happens *inside* those objects, at the level of a single Event Rule line.
 
